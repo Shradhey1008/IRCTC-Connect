@@ -15,9 +15,6 @@ Our project is about regulating the train transport utility and support.
 7. Can see his booking history and upcoming travels.
 ```
 
-
-
-
 ### `Admin`
 ```
 8. Maintain customer information.
@@ -28,6 +25,7 @@ Our project is about regulating the train transport utility and support.
 13. Add and remove seats/Coaches in trains.
 14. Cancel trains.
 ```
+
 
 
 
