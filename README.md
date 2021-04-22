@@ -15,6 +15,7 @@ Our project is about regulating the train transport utility and support.
 7. Can see his booking history and upcoming travels.
 ```
 
+
 ### `Admin`
 ```
 8. Maintain customer information.
@@ -29,3 +30,34 @@ Our project is about regulating the train transport utility and support.
 
 
 
+## Advanced features :
+```
+1. Admin can give discounts to frequent travellers 
+   e.g. give a discount to travellers who booked tickets 
+   worth X rupees in a given month will receive
+   a discount for the next month.
+2. Notify users of their upcoming journey a couple of hours 
+   before the scheduled time.
+3. Dynamic Pricing on some Special trains.
+4. Cancel and reroute trains for a certain duration.
+5. Display the probable halting Platform No. of the trains at stations/junctions.
+6. Create tourist packages.
+7. Book meals during a journey.
+8. Tatkal, special and senior citizen quota for tickets.
+9. Female travellers are allotted seats nearby if they are travelling alone.
+10. Users get notification for offers and train cancellations or reroutes.
+11. Have a chat feature to handle complaints from users.
+12. Analysis of traffic on routes and trains using graphs and charts.
+```
+
+
+
+
+
+## Built with
+[Intellij](https://www.jetbrains.com/idea/) - An Integrated Development Environment.
+
+
+## Technology Used
+* ***JavaFX (UI Library).***
+* ***Java JDK 14.***
